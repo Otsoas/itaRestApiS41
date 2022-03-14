@@ -3,7 +3,7 @@
 Ejercicio 4 del curso de Nodejs para crear un REST API  
 
 Pasos a seguir:  
-Clonar el repositorio:  
+Clonar el repositorio: https://github.com/Otsoas/itaRestApiS41.git  
 npm install o npm i
 npm start o npm run dev para levantar el server
 
