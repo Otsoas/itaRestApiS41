@@ -7,7 +7,7 @@ Clonar el repositorio:
 npm install o npm i
 npm start o npm run dev para levantar el server
 
-Endepoints
+Endepoints  
 GET/user Para mostrar  usuario y url  
 POST/upload Para subir archivo    
 POST/userdate Para mostrar usuario y fecha   
